@@ -2,6 +2,16 @@
 
 This is a solo project that implements a Color Scheme API. It generates random color schemes based on a seed color provided by the user.
 
+### Desktop View 
+![Desktop View-1](https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/4c3cd44b-1eac-4004-8be8-37139f119772)
+![Desktop-View-2](https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/154f85f8-791e-44c6-962e-c77c2c770eae)
+![Desktop-View-3](https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/34278747-174a-4f2c-924f-9f22ca29ee35)
+
+### Mobile View 
+![Mobile-View-1](https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/fa4f6ae3-c2e6-44ea-9146-3a7ba66df7fd)
+
+
+
 ## Description
 
 The Color Scheme API generates color schemes by making requests to thecolorapi.com. It takes a seed color as input and retrieves a scheme of colors related to that seed color.
@@ -9,7 +19,7 @@ The Color Scheme API generates color schemes by making requests to thecolorapi.c
 The project consists of the following files:
 - `index.html`: The HTML file for the color scheme generator UI.
 - `styles.css`: The CSS file that styles the color scheme generator UI.
-- `script.js`: The JavaScript file that contains the functionality for generating color schemes and copying color values.
+- `index.js`: The JavaScript file that contains the functionality for generating color schemes and copying color values.
 
 ## Features
 
@@ -28,9 +38,11 @@ The project consists of the following files:
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Credits
 
