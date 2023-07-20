@@ -14,7 +14,7 @@ This is a solo project that implements a Color Scheme API. It generates random c
 
 ## Description
 
-The Color Scheme API generates color schemes by making requests to thecolorapi.com. It takes a seed color as input and retrieves a scheme of colors related to that seed color.
+The Color Scheme API generates color schemes by making requests to the colorapi.com. It takes a seed color as input and retrieves a scheme of colors related to that seed color.
 
 The project consists of the following files:
 - `index.html`: The HTML file for the color scheme generator UI.
