@@ -2,6 +2,10 @@
 
 This is a solo project that implements a Color Scheme API. It generates random color schemes based on a seed color provided by the user.
 
+
+### Project Walkthrough
+https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/464e7ff3-bd3a-4bd9-a8ed-058d316eaa19
+
 ### Desktop View 
 ![Desktop View-1](https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/4c3cd44b-1eac-4004-8be8-37139f119772)
 ![Desktop-View-2](https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/154f85f8-791e-44c6-962e-c77c2c770eae)
@@ -9,6 +13,8 @@ This is a solo project that implements a Color Scheme API. It generates random c
 
 ### Mobile View 
 ![Mobile-View-1](https://github.com/eshan-one/Color-Scheme-API-/assets/108228113/fa4f6ae3-c2e6-44ea-9146-3a7ba66df7fd)
+
+
 
 
 
